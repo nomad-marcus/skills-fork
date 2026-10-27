@@ -1,0 +1,16 @@
+
+# KI- und Plan-Dateien: liegen in 0-bauplaene, nicht im Kundenrepo
+CLAUDE.md
+README.md
+SETUP.md
+BAUAUFTRAG*.md
+BRIEFING*.md
+BAUPLAN*.md
+VERFAHRENSANWEISUNG*.md
+MEGAPROMPT*.md
+PRUEFBERICHT*.md
+UEBERGABE*.md
+_REGEL-INVENTAR.md
+.nomad/
+_berichte/
+_planung/
